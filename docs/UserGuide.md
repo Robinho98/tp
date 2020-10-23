@@ -177,7 +177,7 @@ Format: `markVisited-attraction INDEX`
 
 Examples:
 * `markVisited-attraction 2` marks the 2nd attraction in the TrackPad as visited.
-![result for 'markVisited-attraction'](images/markVisitedAttraction.PNG)
+![result for 'markVisited-attraction'](images/markVisitedAttraction.png)
   <div align="center"><sup style="font-size:100%"><i>Figure 7. The result of 'markVisited-attraction 2</i></sup></div>
 * Typing `markVisited-attraction 2` again will show that the 2nd attraction in the TrackPad is visited.
 
